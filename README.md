@@ -47,46 +47,46 @@ AtliQ Hardware, a fast-growing electronic goods company, faced substantial losse
   
 *   Supply Chain View :
 
-   *   KPIs for forecast accuracy, net error, and absolute error.
-   *   Insights into inventory levels and order fulfillment.
-   *   Identification of risks related to inventory shortage or excess.
+    *   KPIs for forecast accuracy, net error, and absolute error.
+    *   Insights into inventory levels and order fulfillment.
+    *   Identification of risks related to inventory shortage or excess.
 
 *   Executive View :
 
-   *   Donut charts showing revenue by division and channel.
-   *   Market share analysis with a ribbon chart.
-   *   Top customers and products by revenue.
-   *   Summary of main KPIs.
+    *   Donut charts showing revenue by division and channel.
+    *   Market share analysis with a ribbon chart.
+    *   Top customers and products by revenue.
+    *   Summary of main KPIs.
 
 
 ## Business Related Terms Acquired :
 
-   •	Net Sales and Net Invoice Sales
-   •	Gross Margin and Gross Margin %
-   •	Pre-Invoice Deductions and Post-Invoice Deductions
-   •	COGS (Cost of Goods Sold)
-   •	Net Profit and Net Profit %
-   •	Absolute Error, Variance, and Targets
-   •	YTG (Year to Go) and YTD (Year to Date)
-   •	Direct, Retailer, Customer, Consumer, and Distributors.
+   *	Net Sales and Net Invoice Sales
+   *	Gross Margin and Gross Margin %
+   *	Pre-Invoice Deductions and Post-Invoice Deductions
+   *	COGS (Cost of Goods Sold)
+   *	Net Profit and Net Profit %
+   *	Absolute Error, Variance, and Targets
+   *	YTG (Year to Go) and YTD (Year to Date)
+   *	Direct, Retailer, Customer, Consumer, and Distributors.
 
 ## Key Insights :
 
-   •	Despite good sales, the gross margin percentage indicated that profits were not as high as expected, necessitating a deeper look into cost management.
-   •	Marketing expenses were high, resulting in negative net profit percentages, common during aggressive market expansion phases.
-   •	Supply chain analysis revealed potential risks of excess inventory, highlighting the need for improved forecast accuracy.
-   •	Executive view provided a comprehensive overview of the company’s performance, including market share comparisons and revenue analysis.
+   *	Despite good sales, the gross margin percentage indicated that profits were not as high as expected, necessitating a deeper look into cost management.
+   *    Marketing expenses were high, resulting in negative net profit percentages, common during aggressive market expansion phases.
+   *	Supply chain analysis revealed potential risks of excess inventory, highlighting the need for improved forecast accuracy.
+   *	Executive view provided a comprehensive overview of the company’s performance, including market share comparisons and revenue analysis.
 
 
  ## Key Learnings :
 
-   •	Creating Calculated Columns and DAX Measures: Enhanced ability to perform complex calculations and data analysis.
-   •	Data Modelling and Validation: Improved techniques for organizing and validating data, ensuring accuracy and reliability.
-   •	Using Bookmarks and Conditional Formatting: Enhanced the interactivity and visual appeal of reports.
-   •	Page Navigation and Tooltips: Optimized dashboard space and user navigation.
-   •	Dynamic Titles and Auto Refresh: Implemented features for better user experience and real-time data updates.
-   •	Publishing and Sharing Reports: Leveraged Power BI services to distribute insights across the organization.
-   •	Creating Date Tables Using M Language: Ensured accurate time-based analysis and reporting.
+   *	Creating Calculated Columns and DAX Measures: Enhanced ability to perform complex calculations and data analysis.
+   *	Data Modelling and Validation: Improved techniques for organizing and validating data, ensuring accuracy and reliability.
+   *	Using Bookmarks and Conditional Formatting: Enhanced the interactivity and visual appeal of reports.
+   *	Page Navigation and Tooltips: Optimized dashboard space and user navigation.
+   *	Dynamic Titles and Auto Refresh: Implemented features for better user experience and real-time data updates.
+   *	Publishing and Sharing Reports: Leveraged Power BI services to distribute insights across the organization.
+   *	Creating Date Tables Using M Language: Ensured accurate time-based analysis and reporting.
 
 
    
