@@ -9,12 +9,13 @@ I'm thrilled to share my recent Power BI project with you all, focusing on AtliQ
 AtliQ Hardware, a fast-growing electronic goods company, faced substantial losses in the Latin American market due to decisions based on gut feelings rather than solid data. In response, they prioritized integrating data analytics to enable informed, data-driven decisions, moving beyond their reliance on Excel.
 
 ## Tools Used:
-   •	Power BI Desktop
-   •	Power BI Service
-   •	Power Query
-   •	DAX Language
-   •	DAX Studio for Performance Analysis
-   •	Project Charter File
+  
+   *	Power BI Desktop
+   *	Power BI Service
+   *	Power Query
+   *	DAX Language
+   *	DAX Studio for Performance Analysis
+   *	Project Charter File
 
 
 ## Dashboards Created :
