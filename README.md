@@ -75,7 +75,7 @@ AtliQ Hardware, a fast-growing electronic goods company, faced substantial losse
 
    *	Despite good sales, the gross margin percentage indicated that profits were not as high as expected, necessitating a deeper look into cost management.
    *    Marketing expenses were high, resulting in negative net profit percentages, common during aggressive market expansion phases.
-   *	Supply chain analysis revealed potential risks of excess inventory, highlighting the need for improved forecast accuracy.
+   *	Supply chain analysis revealed potential risks of inventory, highlighting the need for improved forecast accuracy.
    *	Executive view provided a comprehensive overview of the company’s performance, including market share comparisons and revenue analysis.
 
 
